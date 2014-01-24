@@ -1,0 +1,2 @@
+
+- editing Arrays and Collections in ObjectInspector
